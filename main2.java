@@ -3,9 +3,12 @@
 
 public class main2 {
 	public static void main(String[] args) {
-		Alarma 	miReloj  = new Alarma();
-		System.out.println(miReloj);
-		miReloj.m1();
-		miReloj.m2();		
+		Soldado soldadito = new Soldado();
+		soldadito.recibeOrden();    
+		soldadito.Horas();    
+		soldadito.Salario();    
+		soldadito.Vacaciones();    
+	
+		
 	}
 }
