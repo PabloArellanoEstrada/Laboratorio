@@ -1,5 +1,8 @@
-// CC2006, Lab 4
-// Una clase para representar a los Coroneles.
+/*
+	Programación Orientada a Objetos
+	Coronel
+	14/10/2016
+*/
 
 public class Coronel extends Teniente {
     public double getSalario() {

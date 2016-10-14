@@ -1,3 +1,8 @@
+/*
+	Programación Orientada a Objetos
+	Alarma
+	14/10/2016
+*/
 public class Alarma extends Timbre {
 	public void m1() {
 		System.out.println("alarma 1");

@@ -1,5 +1,8 @@
-// CC2006, Lab 4
-// Una clase para representar a los militares en general.
+/*
+	Programación Orientada a Objetos
+	Militar
+	14/10/2016
+*/
 
 public class Militar {
     public int getHoras() {

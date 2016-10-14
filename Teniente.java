@@ -1,5 +1,8 @@
-// CC2006, Lab 4
-// Una clase para representar a los Tenientes.
+/*
+	Programación Orientada a Objetos
+	Teniente
+	14/10/2016
+*/
 
 public class Teniente extends Militar {
     public void tomaOrdenCoronel(String texto) {

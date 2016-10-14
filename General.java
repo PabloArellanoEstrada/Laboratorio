@@ -1,5 +1,8 @@
-// CC2006, Lab 4
-// Una clase para representar a los Generales.
+/*
+	Programación Orientada a Objetos
+	General
+	14/10/2016
+*/
 
 public class General extends Militar {
     public int getDiasVacaciones() {

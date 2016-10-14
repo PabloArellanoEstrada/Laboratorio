@@ -1,5 +1,8 @@
-// CC2006 Lab
-// Este programa cliente prueba el comportamiento de su clase AlarmaEmergencia.
+/*
+	Programación Orientada a Objetos
+	AlarmaMain
+	14/10/2016
+*/
 
 public class AlarmaMain {
 	public static void main(String[] args) {
